@@ -11,6 +11,7 @@ The plugin provides:
 
 - Battle EXP reduced to the game's minimum of 1 EXP
 - 999 Rare Candies
+- 999 Poké Balls
 - 999 Max Repels
 - 999 Full Restores
 - 999 Max Elixirs
