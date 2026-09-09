@@ -2,10 +2,10 @@
 
 Vibe coded lightweight native 3GX plugin for the Nintendo 3DS Pokémon games:
 
-- Pokémon X / Y
-- Pokémon Omega Ruby / Alpha Sapphire
-- Pokémon Sun / Moon
-- Pokémon Ultra Sun / Ultra Moon
+- Pokémon X / Y - WIP
+- **Pokémon Omega Ruby / Alpha Sapphire**
+- Pokémon Sun / Moon - UNTESTED
+- **Pokémon Ultra Sun / Ultra Moon**
 
 The plugin provides:
 
