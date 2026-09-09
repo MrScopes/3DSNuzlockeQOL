@@ -2,10 +2,10 @@
 
 Vibe coded lightweight native 3GX plugin for the Nintendo 3DS Pokémon games:
 
-- Pokémon X / Y - WIP
-- **Pokémon Omega Ruby / Alpha Sapphire**
-- Pokémon Sun / Moon - UNTESTED
-- **Pokémon Ultra Sun / Ultra Moon**
+- Pokémon X / Y
+- Pokémon Omega Ruby / Alpha Sapphire
+- Pokémon Sun / Moon
+- Pokémon Ultra Sun / Ultra Moon
 
 The plugin provides:
 
@@ -39,8 +39,9 @@ The plugin is intended for the latest game updates/patches.
 It probably won't work on outdated versions.
 
 It has been tested with Azahar using updated copies of the games:
-- Alpha Sapphire
 - X
+- Alpha Sapphire
+- Sun
 - Ultra Sun
 
 NO TESTING has been done yet on an official 3DS, sorry
